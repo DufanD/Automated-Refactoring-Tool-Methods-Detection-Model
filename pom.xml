@@ -44,7 +44,7 @@
     <repositories>
         <repository>
             <id>Automated-Refactoring-Tool-Model</id>
-            <url>https://raw.github.com/zulffaza/Automated-Refactoring-Tool-Model/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Model/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
@@ -52,7 +52,7 @@
         </repository>
         <repository>
             <id>Automated-Refactoring-Tool-Files-Detection-Model</id>
-            <url>https://raw.github.com/zulffaza/Automated-Refactoring-Tool-Files-Detection-Model/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Files-Detection-Model/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
